@@ -1,5 +1,7 @@
 # To-Do List React App
 
+By Anshul Khairari, M.S., Business Analytics (NETID - AXK210031)
+
 ### i. A description of the important libraries you used for each component and why you chose it:
 
 -> Following are the libraries used in building the To-Do List Application:
