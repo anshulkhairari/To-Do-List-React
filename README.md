@@ -28,7 +28,7 @@
 
 ### iv. Indication of what part of this project you had never done before –if you’ve never used React, or deployed before, or anything, please tell us:
 
--> 
+-> The whole experience was new to me. I have worked upon simple single, form-enabled webpages using PHP, SQL, CSS and basic JavaScript. I have also worked with the techincal team of the firm I worked to integrate RESTful APIs, to establish connection between client database and company's database. I have never worked upon React and deployed a code on the production stage. But within the deadline, I was able to learn some basics of React, which were similar to PHP and JavaScript, and enjoyed creating an application from scratch. As my previous academic background is non-techincal, I was excited to learn a new language and work hard to present the best possible work within the said timeframe. I thank the ATEC team for providing me this opportunity and let me work on such exciting projects. I am super-exicted to work on such projects in future with much complex problem statement and equally work hard to produce exceptional work.
 
 ### v. The GitHub links for each of the components (mono-repos are okay too):
 
